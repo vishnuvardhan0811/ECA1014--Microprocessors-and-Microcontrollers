@@ -1,0 +1,31 @@
+8000
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Courier New;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\li203\cf1\f0\fs19 LXI H 8100
+\par MOV A M
+\par INX H
+\par ADD M
+\par INX H
+\par MOV M A
+\par HLT
+\par }
+<End Codes>
+20
+1| 8100| 05
+2| 8101| 03
+3| 8102| 08
+4| 8103| 00
+<End UserData>
+59
+1| 8000| 21
+2| 8001| 00
+3| 8002| 81
+4| 8003| 7E
+5| 8004| 23
+6| 8005| 86
+7| 8006| 23
+8| 8007| 77
+9| 8008| 76
+<End HexData>
+
+<End Comment>
